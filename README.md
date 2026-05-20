@@ -33,3 +33,40 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
 
 ## Loan risk and Default Analysis
 <img width="602" height="425" alt="loan 4" src="https://github.com/user-attachments/assets/416594ea-588b-4251-a571-65d5d2d35160" />
+
+## Insight
+
+1. What type of customers should the company avoid?
+
+The company should avoid or carefully review customers with:
+* Previous default history 
+*	Low credit scores 
+*	Unstable employment status 
+*	High-risk classifications
+  
+These customers demonstrated significantly higher default rates and therefore pose greater financial risk to the company.
+ 
+2. What loan conditions should be stricter?
+   
+Loan conditions should be stricter for customers identified as high risk. The company should:
+* Require higher credit score thresholds
+* Conduct stricter background checks
+* * Request additional financial documentation 
+*	Apply shorter repayment periods 
+*	Increase monitoring for customers with previous defaults
+  
+These measures can help reduce the probability of loan default.
+
+3. Should the company reduce loan amounts for certain customers?
+ 
+Yes. Loan amounts should be reduced for customers with:
+*	Poor credit scores 
+*	Previous default records 
+*	High debt risk indicators 
+*	Unstable employment status
+*	Reducing loan exposure for high-risk customers can minimize potential financial losses while still allowing controlled access to credit.
+
+
+## Conclusion
+
+The analysis revealed that previous default history, low credit scores, and unstable employment are strong indicators of loan default risk. The company should strengthen approval policies and reduce exposure to high-risk customers.
