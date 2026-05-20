@@ -18,3 +18,18 @@ The dataset was cleaned and prepared before analysis. Initial exploration was pe
 
 ## Distribution of Credit Scores
 <img width="533" height="298" alt="Loan 0 9" src="https://github.com/user-attachments/assets/e1f71c0f-5466-48e1-bd02-31cb87a0c4ea" />
+
+## Loan Purposes
+<img width="842" height="249" alt="Loan 1 1" src="https://github.com/user-attachments/assets/aadd5253-774a-4e69-8470-2e765b12d465" />
+
+## Default Rate by Credit Score Group
+<img width="856" height="247" alt="Loan 1" src="https://github.com/user-attachments/assets/911dbcc2-d211-476d-88b7-dee58b8694f9" />
+
+## Default Rate by Previous Default History
+<img width="864" height="337" alt="Loan 2" src="https://github.com/user-attachments/assets/6e561be0-6cf3-4e5b-8ad1-84759c6f54ea" />
+
+## Distribution of Customer Risk Categories
+<img width="601" height="425" alt="Loan 3" src="https://github.com/user-attachments/assets/fc9ffefc-8160-4de3-86ce-5d18bdb45355" />
+
+## Loan risk and Default Analysis
+<img width="602" height="425" alt="loan 4" src="https://github.com/user-attachments/assets/416594ea-588b-4251-a571-65d5d2d35160" />
