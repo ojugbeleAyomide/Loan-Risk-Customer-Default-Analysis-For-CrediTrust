@@ -64,7 +64,8 @@ Yes. Loan amounts should be reduced for customers with:
 *	Previous default records 
 *	High debt risk indicators 
 *	Unstable employment status
-*	Reducing loan exposure for high-risk customers can minimize potential financial losses while still allowing controlled access to credit.
+
+ 	Reducing loan exposure for high-risk customers can minimize potential financial losses while still allowing controlled access to credit.
 
 
 ## Conclusion
